@@ -1,7 +1,7 @@
 
 # Regular methods in a class automatically takes instances as their first arguments
 # Class methods automatically takes class as their first arguments
-# Static mathods doesnot take any arguments 
+# Static mathods doesnot take any arguments . IT does not operate on class or the instances
 
 
 class Employee:
